@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.kafka.topic.name",
+  "type": "java.lang.String",
+  "description": "Just a Kafka Topic Name"
+}]}
